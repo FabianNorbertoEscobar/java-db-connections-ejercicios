@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<productos>
+    <producto codigo="1234">
+        <nombre>Teclado</nombre>
+        <precio>350</precio>
+    </producto>
+    <producto codigo="7896">
+        <nombre>Parlante</nombre>
+        <precio>650</precio>
+    </producto>
+    <producto codigo="3657">
+        <nombre>Mouse</nombre>
+        <precio>500</precio>
+    </producto>
+</productos>

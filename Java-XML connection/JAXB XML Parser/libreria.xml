@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<libreria>
+    <nombre>Librería técnica</nombre>
+    <libros>
+        <libro isbn = "9788441536258">
+            <titulo>Java 8</titulo>
+            <autor>Herbert Schildt</autor>
+        </libro>
+        <libro isbn = "9788415033370">
+            <titulo>Curso de programación web</titulo>
+            <autor>Scott McCracken</autor>
+        </libro>
+        <libro isbn = "9788426722126">
+            <titulo>Python fácil</titulo>
+            <autor>Arnaldo Pérez Castaño</autor>
+        </libro>
+    </libros>
+</libreria>
