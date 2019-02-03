@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personas>
+    <persona dni="12345678">
+        <nombre>Andrés</nombre>
+        <apellido>Barrios</apellido>
+        <estatura>1.78</estatura>
+        <masa>85.3</masa>
+    </persona>
+    <persona dni="23456789">
+        <nombre>César</nombre>
+        <apellido>Danielo</apellido>
+        <estatura>1.71</estatura>
+        <masa>76.6</masa>
+    </persona>
+    <persona dni="34567890">
+        <nombre>Esteban</nombre>
+        <apellido>Ferreyra</apellido>
+        <estatura>1.69</estatura>
+        <masa>62.5</masa>
+    </persona>
+    <persona dni="45678901">
+        <nombre>Gastón</nombre>
+        <apellido>Herrera</apellido>
+        <estatura>1.67</estatura>
+        <masa>64.3</masa>
+    </persona>
+    <persona dni="56789012">
+        <nombre>Ignacio</nombre>
+        <apellido>Jiménez</apellido>
+        <estatura>1.71</estatura>
+        <masa>67.4</masa>
+    </persona>
+    <persona dni="67890123">
+        <nombre>Kevin</nombre>
+        <apellido>Lanata</apellido>
+        <estatura>1.83</estatura>
+        <masa>76.7</masa>
+    </persona>
+    <persona dni="39210915">
+        <nombre>Fabián</nombre>
+        <apellido>Escobar</apellido>
+        <estatura>1.7</estatura>
+        <masa>62.0</masa>
+    </persona>
+</personas>
